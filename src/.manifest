@@ -1,5 +1,5 @@
 {
-    "roots": ["policies"],
+    "roots": ["asertodemo"],
     "metadata": {
       "required_builtins": {
           "builtin1": [
